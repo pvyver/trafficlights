@@ -5,7 +5,7 @@
 >:info: This section provides an overview of the status of all milestones that need to be completed in order to have a successful implementation of a program.
 
 
-> **Legend**
+> **Legend**\
 > :green_circle: Done
 > :orange_circle: Work in progress
 > :red_circle: Not started
