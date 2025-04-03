@@ -6,7 +6,7 @@
 
 |Program|Sales description|Sales slidedeck|docs.cegeka.com|Statement Of Work (SOW)|One Pager|Program PowerPoint Presentation|
 |---|---|---|---|---|---|---|
-| [Azure Cloud Datacenter Migration](Azure%20Cloud%20Datacenter%20Migration/ProgramInformation.md)| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
+| [Azure Cloud Datacenter Migration](Azure%20Cloud%20Datacenter%20Migration/ProgramInformation.md)| :red_circle: |  :red_circle: |  :green_circle: |  :orange_circle: |  :red_circle: |  :red_circle: |
 | [Azure Disaster Recovery as a Service](Azure%20Disaster%20Recovery%20as%20a%20Service/ProgramInformation.md)| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
 | [Azure Stack HCI Integration](Azure%20Stack%20HCI%20Integration/ProgramInformation.md)| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
 | [Azure Resource Move](Azure%20Resource%20Move/ProgramInformation.md)| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
