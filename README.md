@@ -6,8 +6,8 @@
 
 > **Legend**\
 > :green_circle: Done\
-> :green_circle: Work in progress\
-> :green_circle: Not started
+> :orange_circle: Work in progress\
+> :red_circle: Not started
 
 |Program|Board Validation|Sales Slidedeck|One Pager|Standard SOW|Program slidedeck|Docs Cegeka Basic|MVP|Sales Guides|
 |---|---|---|---|---|---|---|---|---|
