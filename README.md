@@ -10,6 +10,7 @@
 > :orange_circle: Work in progress\
 > :red_circle: Not started
 
+<div align="center">
 
 |Program|:Sales description:|:Sales slidedeck:|:docs.\cegeka.com:|:Statement Of Work (SOW):|:One Pager:|:Program PowerPoint Presentation:|
 |---|---|---|---|---|---|---|
@@ -25,6 +26,8 @@
 | Identity Assessment| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
 | [Kubernetes Integration](Kubernetes%20Integration/ProgramInformation.md)| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
 | [Cloud Service, Risk and Security Optimization](Cloud%20Service,%20Risk%20and%20Security%20Optimization/ProgramInformation.md)| :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |  :red_circle: |
+
+</div>
 
 ## Information
 
