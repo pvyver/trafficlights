@@ -10,7 +10,15 @@
 > :orange_circle: Work in progress\
 > :red_circle: Not started
 
-<div align="center">
+<style>
+    div.pagebreak { page-break-before: always; visibility: hidden }
+    div.center table { margin: 0 auto; }
+    div.center h1, h2, h3, h4, h5, h6 { text-align: center }
+    div.center p { text-align: center }
+    div.center ul { display: table; margin: 0 auto; }   
+</style>
+
+<div class='center'>
 
 |Program|:Sales description:|:Sales slidedeck:|:docs.\cegeka.com:|:Statement Of Work (SOW):|:One Pager:|:Program PowerPoint Presentation:|
 |---|---|---|---|---|---|---|
