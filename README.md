@@ -1,15 +1,3 @@
-# Program Development Status
-
-## Status
-
->:info: This section provides an overview of the status of all milestones that need to be completed in order to have a successful implementation of a program.
-
-
-> **Legend**\
-> :green_circle: Done\
-> :orange_circle: Work in progress\
-> :red_circle: Not started
-
 <style>
     div.pagebreak { page-break-before: always; visibility: hidden }
     div.center table { margin: 0 auto; }
@@ -19,6 +7,17 @@
 </style>
 
 <div class='center'>
+
+# Program Development Status
+
+## Status
+
+>:info: This section provides an overview of the status of all milestones that need to be completed in order to have a successful implementation of a program.
+
+> **Legend**\
+> :green_circle: Done\
+> :orange_circle: Work in progress\
+> :red_circle: Not started
 
 |Program|:Sales description:|:Sales slidedeck:|:docs.\cegeka.com:|:Statement Of Work (SOW):|:One Pager:|:Program PowerPoint Presentation:|
 |---|---|---|---|---|---|---|
