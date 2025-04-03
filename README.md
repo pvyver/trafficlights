@@ -6,9 +6,9 @@
 
 
 > **Legend**\
-> :green_circle: Done
-> :orange_circle: Work in progress
-> :red_circle: Not started
+> :green_circle: Done\
+> :orange_circle: Work in progress\
+> :red_circle: Not started\
 
 
 |Program|Sales description|Sales slidedeck|docs.cegeka.com|Statement Of Work (SOW)|One Pager|Program PowerPoint Presentation|
