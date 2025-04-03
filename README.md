@@ -1,13 +1,3 @@
-<style>
-    div.pagebreak { page-break-before: always; visibility: hidden }
-    div.center table { margin: 0 auto; }
-    div.center h1, h2, h3, h4, h5, h6 { text-align: center }
-    div.center p { text-align: center }
-    div.center ul { display: table; margin: 0 auto; }   
-</style>
-
-<div class='center'>
-
 # Program Development Status
 
 ## Status
@@ -18,6 +8,10 @@
 > :green_circle: Done\
 > :orange_circle: Work in progress\
 > :red_circle: Not started
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 
 |Program|:Sales description:|:Sales slidedeck:|:docs.\cegeka.com:|:Statement Of Work (SOW):|:One Pager:|:Program PowerPoint Presentation:|
 |---|---|---|---|---|---|---|
